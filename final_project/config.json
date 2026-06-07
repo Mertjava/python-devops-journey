@@ -1,0 +1,5 @@
+{
+    "allowed_environments": ["dev", "test", "prod"],
+    "allowed_users": ["admin", "manager", "mert"]
+}
+

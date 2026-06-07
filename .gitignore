@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local system files
+.DS_Store
+
+# Lesson-generated files
+user_data.txt
+user.json
+final_project/actions.json
+
+# Local secrets and environment config
+.env
+*.env
+
