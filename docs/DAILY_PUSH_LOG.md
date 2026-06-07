@@ -2,6 +2,8 @@
 
 Use this file to explain your daily GitHub progress.
 
+Future Codex note: read this file to understand what the user pushed recently and where the learning journey stopped.
+
 ## Template
 
 ```text

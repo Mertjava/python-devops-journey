@@ -98,6 +98,39 @@ Tests I ran:
 Next task:
 ```
 
+
+## Experience Notes
+
+Longer learning notes are stored here:
+
+```text
+docs/experience/
+```
+
+First Git/GitHub setup note:
+
+```text
+docs/experience/git_github_first_push_experience.md
+```
+
+
+## For Future Codex Sessions
+
+If a new Codex chat starts, read this first:
+
+```text
+docs/START_HERE_FOR_CODEX.md
+```
+
+Then read:
+
+```text
+docs/DAILY_PUSH_LOG.md
+docs/experience/git_github_first_push_experience.md
+```
+
+The user wants to type Git commands himself. Guide him step by step and explain why each command is needed.
+
 ## Important Safety Rule
 
 Never push:

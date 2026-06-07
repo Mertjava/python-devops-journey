@@ -2,6 +2,12 @@
 
 This workspace is your Python learning track.
 
+For future Codex sessions, start here:
+
+```text
+docs/START_HERE_FOR_CODEX.md
+```
+
 Current status:
 
 - `python_15_day_plan/day01_lists.py` is your Day 1 basics file.
@@ -46,6 +52,19 @@ Daily Git guide:
 ```text
 docs/GIT_DAILY_PUSH_GUIDE.md
 ```
+
+Git/GitHub experience notes:
+
+```text
+docs/experience/git_github_first_push_experience.md
+```
+
+Codex/agent working guidelines:
+
+```text
+docs/CODEX_AGENT_GUIDELINES.md
+```
+
 
 After the 15-day Python course, continue with:
 
