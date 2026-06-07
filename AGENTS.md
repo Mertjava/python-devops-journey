@@ -98,6 +98,35 @@ fix
 new stuff
 ```
 
+
+## After Push Documentation Rule
+
+After every successful GitHub push, check whether the push is documented in:
+
+```text
+docs/DAILY_PUSH_LOG.md
+```
+
+If the latest push is not documented, guide Mert to add a new entry with:
+
+```text
+Date:
+Lesson:
+Commit message:
+Files changed:
+What I learned:
+Tests I ran:
+Next task:
+```
+
+Important:
+
+- Do not pretend the push log updates automatically.
+- Explain that `git log` shows real commit history, while `docs/DAILY_PUSH_LOG.md` is the learning journal.
+- If Mert wants to type the update himself, provide the entry text and let him paste it.
+- If Mert asks Codex to update the file, update only the log entry and do not commit or push unless clearly requested.
+- Keep the log text in English because it is project documentation.
+
 ## Safety Rules
 
 Never ask the user to paste or push:
