@@ -5,6 +5,7 @@ This workspace is your Python learning track.
 For future Codex sessions, start here:
 
 ```text
+AGENTS.md
 docs/START_HERE_FOR_CODEX.md
 ```
 

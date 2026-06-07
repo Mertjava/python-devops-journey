@@ -5,6 +5,7 @@ from pathlib import Path
 
 
 REQUIRED_FILES = [
+    "AGENTS.md",
     "README.md",
     "DAILY_TASKS.md",
     "REAL_WORLD_DEVOPS_PROJECT_PLAN.md",

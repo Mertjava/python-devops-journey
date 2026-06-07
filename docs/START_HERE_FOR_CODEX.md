@@ -176,6 +176,7 @@ The project has `.gitignore`, but still remind the user to think before pushing.
 When a future Codex session starts, read these files first:
 
 ```text
+AGENTS.md
 README.md
 DAILY_TASKS.md
 docs/START_HERE_FOR_CODEX.md
