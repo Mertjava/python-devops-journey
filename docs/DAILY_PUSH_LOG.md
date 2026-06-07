@@ -57,3 +57,13 @@ Files changed: AGENTS.md, README.md, check_course.py, docs/START_HERE_FOR_CODEX.
 What I learned: AGENTS.md gives future coding agents project-specific rules, including how to teach, how to handle Git, and what files to read first.
 Tests I ran: python3 check_course.py
 Next task: Add a rule to document every future push in docs/DAILY_PUSH_LOG.md.
+
+### 2026-06-06 - After-Push Log Rule
+
+Date: 2026-06-06
+Lesson: Git documentation workflow
+Commit message: Add after-push log documentation rule
+Files changed: AGENTS.md, docs/DAILY_PUSH_LOG.md
+What I learned: The daily push log should be updated before committing so the log entry and the related work are pushed together in the same commit.
+Tests I ran: python3 check_course.py
+Next task: Continue Day 2 lists lesson.
